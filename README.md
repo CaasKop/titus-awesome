@@ -58,12 +58,12 @@ wget -qO- https://git.io/papirus-icon-theme-install | sh
 
 Arch-Based Installs
 ```
-git clone https://github.com/ChrisTitusTech/titus-awesome ~/.config/awesome
+git clone https://github.com/CaasKop/titus-awesome ~/.config/awesome
 ```
 
 Debian-Based Installs
 ```
-git clone --branch debian https://github.com/ChrisTitusTech/titus-awesome ~/.config/awesome
+git clone --branch debian https://github.com/CaasKop/titus-awesome ~/.config/awesome
 ```
 
 ### 3) Set the themes
