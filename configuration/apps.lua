@@ -26,6 +26,7 @@ return {
   run_on_start_up = {
     'picom --experimental-backend --xrender-sync-fence --backend glx',
     'imwheel',
+    'nitrogen --restore &',
     'nm-applet --indicator', -- wifi
     'pnmixer', -- shows an audiocontrol applet in systray when installed.
     --'blueberry-tray', -- Bluetooth tray icon
